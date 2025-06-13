@@ -1,7 +1,7 @@
 export const cardImage = (cardName) => {
   switch (cardName) {
     case "XII. Wolfraud, Hanged Man":
-      return "../textures/bp10-u01.png";
+      return "../textures/bp10-01.png";
     case "XII. Wolfraud, Hanged Man Evolved":
       return "../textures/bp10-002.png";
     case "Lucille, Keeper of Relics":
@@ -37,7 +37,7 @@ export const cardImage = (cardName) => {
     case "Fairy Assault":
       return "../textures/bp10-018.png";
     case "VII. Oluon, The Chariot":
-      return "../textures/bp10-u02.png";
+      return "../textures/bp10-02.png";
     case "VII. Oluon, Runaway Chariot ADVANCE":
       return "../textures/bp10-020.png";
     case "Alyaska, War Hawker":
@@ -73,7 +73,7 @@ export const cardImage = (cardName) => {
     case "Pompous Summons":
       return "../textures/bp10-036.png";
     case "0. Lhynkal, The Fool":
-      return "../textures/bp10-u03.png";
+      return "../textures/bp10-03.png";
     case "0. Lhynkal, The Fool Evolved":
       return "../textures/bp10-038.png";
     case "Runie, Resolute Diviner":
@@ -107,7 +107,7 @@ export const cardImage = (cardName) => {
     case "Magical Augmentation":
       return "../textures/bp10-053.png";
     case "XI. Erntz, Justice":
-      return "../textures/bp10-u04.png";
+      return "../textures/bp10-04.png";
     case "XI. Erntz, Justice Evolved":
       return "../textures/bp10-055.png";
     case "Aiela, Devoted Knight":
@@ -147,7 +147,7 @@ export const cardImage = (cardName) => {
     case "Dragon Spawning":
       return "../textures/bp10-073.png";
     case "VI. Milteo, The Lovers":
-      return "../textures/bp10-u05.png";
+      return "../textures/bp10-05.png";
     case "VI. Milteo, The Lovers Evolved":
       return "../textures/bp10-075.png";
     case "XIV. Luzen, Temperance":
@@ -183,7 +183,7 @@ export const cardImage = (cardName) => {
     case "Colossal Grudge":
       return "../textures/bp10-091.png";
     case "VIII. Sofina, Strength":
-      return "../textures/bp10-u06.png";
+      return "../textures/bp10-06.png";
     case "VIII. Sofina, Strength Evolved":
       return "../textures/bp10-093.png";
     case "X. Slaus, Wheel of Fortune":
@@ -218,7 +218,7 @@ export const cardImage = (cardName) => {
       return "../textures/bp10-108.png";
 
     case "XXI. Zelgenea, The World":
-      return "../textures/bp10-u07.png";
+      return "../textures/bp10-07.png";
     case "XXI. Zelgenea, O Great World ADVANCE":
       return "../textures/bp10-110.png";
     case "Starbright Deity":
